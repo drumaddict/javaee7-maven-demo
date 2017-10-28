@@ -1,4 +1,4 @@
-# Java EE 7 with Spring, Hinernate, Maven.
+# Java EE 7 with Spring, Hibernate, Maven.
 ----
 Unfortunately the Yahoo API is not responding, other than that the build is successful.
 ###
